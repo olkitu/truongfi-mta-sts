@@ -9,4 +9,4 @@ mx: mx4.smtp.goog
 mx: mx3.smtp.goog
 mx: mx2.smtp.goog
 mx: mx1.smtp.goog
-max_age: 604800
+max_age: 86400
